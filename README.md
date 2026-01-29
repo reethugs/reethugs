@@ -1,16 +1,37 @@
-## Hi there 👋
+![Banner](banner.png)
 
-<!--
-**reethugs/reethugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋 I'm Reethu GS</h1>
+<h3 align="center">Engineering Student | Generative AI Intern | AI & ML Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Information Science Engineering student  
+- 🤖 Generative AI Intern  
+- 🧠 Interested in AI, ML & modern AI tools  
+- 🚀 Building real-world projects  
+
+---
+
+## 🛠️ Skills
+- **Languages:** Python, JavaScript  
+- **Web:** HTML, CSS  
+- **AI:** Generative AI, Machine Learning basics  
+
+---
+
+## 📌 Projects
+- 🔹 **AI Resume Builder**  
+- 🔹 **Web-based Resume Generator**  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reethugs&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: (add your LinkedIn link here)
+- 📧 Email: (optional)
+
