@@ -1,4 +1,4 @@
-![Banner](banner.png)
+
 
 <h1 align="center">Hi 👋 I'm Reethu GS</h1>
 <h3 align="center">Engineering Student | Generative AI Intern | AI & ML Enthusiast</h3>
