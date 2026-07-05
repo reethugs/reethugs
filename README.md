@@ -1,37 +1,23 @@
-
-
-<h1 align="center">Hi 👋 I'm Reethu GS</h1>
-<h3 align="center">Engineering Student | Generative AI Intern | AI & ML Enthusiast</h3>
-
----
-
 ## 👩‍💻 About Me
 - 🎓 Information Science Engineering student  
 - 🤖 Generative AI Intern  
 - 🧠 Interested in AI, ML & modern AI tools  
 - 🚀 Building real-world projects  
 
----
 
 ## 🛠️ Skills
 - **Languages:** Python, JavaScript  
 - **Web:** HTML, CSS  
-- **AI:** Generative AI, Machine Learning basics  
+- **AI:** Generative AI, Machine Learning, Deep Learning 
 
----
 
 ## 📌 Projects
-- 🔹 **AI Resume Builder**  
-- 🔹 **Web-based Resume Generator**  
+**Blockchain-Based Decentralized Cloud Storage with Reliable Deduplication & Storage Balancing**  
+**Smart Documents Insights**
+**Crop Guard-AI Plant Diaease Detection**
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reethugs&show_icons=true&theme=radical)
-
----
 
 ## 🔗 Connect with Me
-- 💼 LinkedIn: (add your LinkedIn link here)
-- 📧 Email: (optional)
+- 💼 LinkedIn: (linkedin.com/in/reethugs-gs-7050bb377)
+- 📧 Email: (reethugs41@gmail.com)
 
